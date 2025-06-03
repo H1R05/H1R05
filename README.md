@@ -1,7 +1,6 @@
 ### 👋 Ciao! Io sono Samuele
 
-🧑‍💻 Studente appassionato di programmazione, reti e sicurezza informatica  
+🧑‍💻 Studente appassionato di Informatica  e tecnologia.
 🎯 Obiettivo: diventare un full-stack dev e hacker etico 👨‍💻  
-📚 Attualmente sto studiando **Python, JavaScript, C#, e networking**
+📚 Attualmente mi sto immergendo nel mondo DevOps dove sto imparando più cose possibili!
 
-In Lavorazione........
