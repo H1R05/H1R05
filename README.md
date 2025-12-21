@@ -7,8 +7,8 @@ Lavoro principalmente con **Python e TypeScript**, sto approfondendo strumenti *
 <details>
   <summary>🧑‍💻 Qualcosa su di me</summary>
 
-  - 🎓 &nbsp;Formazione in ambito informatico, attualmente in percorso ITS DevOps
-  - 🌱 &nbsp;Sto approfondendo DevOps, Cloud e Design.
+  - 🎓 &nbsp;Formazione in ambito informatico, attualmente in percorso ITS Adriano Olivetti
+  - 🌱 &nbsp;Sto approfondendo DevOps, Cloud.
   - ⚙️ &nbsp;Interesse per pipeline CI/CD, containerizzazione e ambienti di deploy
   - 🔭 &nbsp;Aperto a opportunità junior, tirocini e collaborazioni
 </details>
