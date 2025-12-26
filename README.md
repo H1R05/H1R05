@@ -2,7 +2,7 @@
 
 Sono uno sviluppatore junior in ambito DevOps, con una forte passione per l’automazione, l’infrastruttura e la gestione dei dati.
 Mi piace lavorare su progetti pratici che uniscono sviluppo software, pipeline, deploy e monitoraggio, cercando sempre soluzioni semplici ma efficaci.
-Lavoro principalmente con **Python e TypeScript**, sto approfondendo strumenti **DevOps e Cloud**, con l’obiettivo di capire a fondo come le applicazioni funzionano dalla scrittura del codice fino alla produzione.
+Sto approfondendo strumenti **DevOps e Cloud**, con l’obiettivo di capire a fondo come le applicazioni funzionano dalla scrittura del codice fino alla produzione.
 
 <details>
   <summary>🧑‍💻 Qualcosa su di me</summary>
