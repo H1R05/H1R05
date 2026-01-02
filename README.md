@@ -1,8 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="25px"> Ciao, sono [Angelicchio Samuele](https://github.com/H1R05)!
 
-Sono uno sviluppatore junior in ambito DevOps, con una forte passione per l’automazione, l’infrastruttura e la gestione dei dati.
-Mi piace lavorare su progetti pratici che uniscono sviluppo software, pipeline, deploy e monitoraggio, cercando sempre soluzioni semplici ma efficaci.
-Sto approfondendo strumenti **DevOps e Cloud**, con l’obiettivo di capire a fondo come le applicazioni funzionano dalla scrittura del codice fino alla produzione.
+Sono uno sviluppatore junior con un forte interesse per il mondo DevOps.
+Mi piace capire come funzionano le applicazioni “dietro le quinte”: dallo sviluppo del codice fino al deploy e al monitoraggio in produzione.
+Sto lavorando su progetti pratici e studiando strumenti DevOps e Cloud per costruire soluzioni semplici, ma ben strutturate.
 
 <details>
   <summary>🧑‍💻 Qualcosa su di me</summary>
