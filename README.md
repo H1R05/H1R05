@@ -1,14 +1,17 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="25px"> Ciao, sono [Angelicchio Samuele](https://github.com/H1R05)!
 
-Sono uno sviluppatore junior con un forte interesse per il mondo DevOps.
-Mi piace capire come funzionano le applicazioni “dietro le quinte”. Dallo sviluppo del codice fino al deploy.
+Sono un **Junior Full-Stack Developer | Cloud & DevOps** in continua evoluzione, con una solida base nel **Quality Assurance (QA)**.
+Mi affascina padroneggiare l'intero ciclo di vita del software: dall'ottimizzazione e *refactoring* del codice legacy, fino alla strutturazione gerarchica di complessi test automatizzati e al *deploy* su infrastrutture server.
 
 <details>
   <summary>🧑‍💻 Qualcosa su di me</summary>
 
-  - 🎓 &nbsp;Formazione in ambito informatico, attualmente in percorso ITS Adriano Olivetti
-  - 🌱 &nbsp;Sto approfondendo DevOps, Cloud e IoT.
-  - 🔭 &nbsp;Aperto a opportunità junior, tirocini e collaborazioni
+  - 🎓 **Formazione:** Percorso ITS in Cloud & DevOps (Adriano Olivetti) concluso: in attesa di sostenere il solo esame finale per il diploma.
+  - 🏆 **Certificazioni:** **AWS Certified Cloud Practitioner**.
+  - 💼 **Focus Attuale:** Sviluppo di logiche custom ad alte performance e gestione rigorosa del codice sorgente tramite *development branches* su GitHub per garantire un'integrazione fluida e sicura.
+  - 🧪 **Testing:** Fortemente orientato al *Clean Code*. Progetto e implemento suite di test E2E strutturate con logica a ereditarietà (tramite classi parenti) utilizzando **C#** e **Playwright**.
+  - 🌱 **In Studio:** Approfondimento pratico e continuo sull'amministrazione di server Linux (Ubuntu) e sulla containerizzazione tramite Docker.
+  - 🔭 **Obiettivi:** Aperto a confronti su architetture software e a sfide professionali per consolidare le mie competenze sul campo.
 </details>
 
 
