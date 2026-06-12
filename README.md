@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="25px"> Ciao, sono [Angelicchio Samuele](https://github.com/H1R05)!
 
-Sono un **Junior Full-Stack Developer | Cloud & DevOps** in continua evoluzione.
+Junior Developer e specializzando ITS in Cloud & DevOps. Al codice e allo studio unisco una forte organizzazione personale e una grande spinta motivazionale 😤.
 
 <details>
   <summary>🧑‍💻 Qualcosa su di me</summary>
