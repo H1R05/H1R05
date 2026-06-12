@@ -7,9 +7,9 @@ Junior Developer e specializzando ITS in Cloud & DevOps. Al codice e allo studio
 
   - 🎓 **Formazione:** Sto per concludere il percorso ITS in Cloud & DevOps (mi manca solo l'esame finale!).
   - 🏆 **Certificazioni:** Ho conseguito le certificazioni **AWS Cloud Practitioner** e **Full-Stack Developer**.
-  - 💻 **Sviluppo:** Creo applicazioni web e uso abitualmente i *development branches* di **GitHub** per organizzare il lavoro e mantenere il codice in ordine.
+  - 💻 **Sviluppo:** Mi piace creare applicazioni web e uso abitualmente i *development branches* di **GitHub** per organizzare il lavoro e mantenere il codice in ordine.
   - 🌱 **Infrastruttura:** Sto facendo molta pratica su **Linux** (Ubuntu) e **Docker** per capire davvero come girano le applicazioni sui server.
-  - 🔭 **Obiettivi:** Cerco la mia prima vera sfida professionale: ho tanta voglia di imparare dai colleghi più esperti e di dare il mio contributo al team.
+  - 🔭 **Obiettivi:** Cercare di continuare a imparare e migliorare ogni giorno in questo settore.
 </details>
 
 
