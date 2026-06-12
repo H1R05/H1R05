@@ -1,16 +1,15 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="25px"> Ciao, sono [Angelicchio Samuele](https://github.com/H1R05)!
 
-Sono un **Junior Full-Stack Developer | Cloud & DevOps** in continua evoluzione, con una solida base nel **Quality Assurance (QA)**.
+Sono un **Junior Full-Stack Developer | Cloud & DevOps** in continua evoluzione.
 
 <details>
   <summary>🧑‍💻 Qualcosa su di me</summary>
 
-  - 🎓 **Formazione:** Percorso ITS in Cloud & DevOps (Adriano Olivetti) concluso: in attesa dell'esame finale per il diploma.
-  - 🏆 **Certificazioni:** **AWS Certified Cloud Practitioner** e **Full-Stack Developer**.
-  - 💼 **Esperienza & Focus:** Sviluppo di funzionalità per applicativi aziendali, ottimizzazione delle performance web e gestione rigorosa del codice in team tramite *development branches* su GitHub.
-  - 🧪 **Testing e Qualità:** Progettazione e scrittura di architetture di testing (Unit, Integration, E2E) utilizzando **C#** e **Playwright**, con una forte propensione al *Clean Code*.
-  - 🌱 **Infrastruttura:** Pratica continua sull'amministrazione di server Linux (Ubuntu) e sulla containerizzazione di applicativi tramite Docker.
-  - 🔭 **Obiettivi:** Aperto a confronti tecnici e a nuove sfide professionali per consolidare sul campo le mie competenze ibride tra sviluppo e sistemistica.
+  - 🎓 **Formazione:** Sto per concludere il percorso ITS in Cloud & DevOps (mi manca solo l'esame finale!).
+  - 🏆 **Certificazioni:** Ho conseguito le certificazioni **AWS Cloud Practitioner** e **Full-Stack Developer**.
+  - 💻 **Sviluppo:** Creo applicazioni web e uso abitualmente i *development branches* di **GitHub** per organizzare il lavoro e mantenere il codice in ordine.
+  - 🌱 **Infrastruttura:** Sto facendo molta pratica su **Linux** (Ubuntu) e **Docker** per capire davvero come girano le applicazioni sui server.
+  - 🔭 **Obiettivi:** Cerco la mia prima vera sfida professionale: ho tanta voglia di imparare dai colleghi più esperti e di dare il mio contributo al team.
 </details>
 
 
