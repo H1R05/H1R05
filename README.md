@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="25px"> Ciao, sono [Angelicchio Samuele](https://github.com/H1R05)!
 
-Junior Developer e diplomato ITS in Cloud & DevOps con 110.
+Junior Developer e diplomato ITS in Cloud & DevOps.
 
 <details>
   <summary>🧑‍💻 Qualcosa su di me</summary>
