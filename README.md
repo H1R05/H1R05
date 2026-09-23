@@ -5,7 +5,7 @@ Junior Developer e diplomato ITS in Cloud & DevOps.
 <details>
   <summary>🧑‍💻 Qualcosa su di me</summary>
 
-  - 🎓 **Formazione:** Sto per concludere il percorso ITS in Cloud & DevOps (mi manca solo l'esame finale!).
+  - 🎓 **Formazione:** Ho concluso il percorso ITS in Cloud & DevOps con 110.
   - 🏆 **Certificazioni:** Ho conseguito le certificazioni **AWS Cloud Practitioner** e **Full-Stack Developer**.
   - 💻 **Sviluppo:** Mi piace creare applicazioni web e uso abitualmente i *development branches* di **GitHub** per organizzare il lavoro e mantenere il codice in ordine.
   - 🌱 **Infrastruttura:** Sto facendo molta pratica su **Linux** (Ubuntu) e **Docker** per capire davvero come girano le applicazioni sui server.
